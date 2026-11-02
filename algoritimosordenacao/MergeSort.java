@@ -1,13 +1,7 @@
 
-package ed2.projeto.algoritmosordenacao;
+package algoritimosordenacao;
 
-/**
- * 
- * @author Hilario Tomaz Alves de Oliveira
- *
- */
-
-public class MergeSort implements IAlgoritmoOrdenacao {
+public class MergeSort implements AlgoritimoOrdenacao {
 
   @Override
 	

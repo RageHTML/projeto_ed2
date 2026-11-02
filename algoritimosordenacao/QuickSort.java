@@ -1,19 +1,11 @@
 
-package ed2.projeto.algoritmosordenacao;
+package algoritimosordenacao;
 
-/**
- * 
- * @author Hilario Tomaz Alves de Oliveira
- *
- */
-
-public class QuickSort implements IAlgoritmoOrdenacao {
+public class QuickSort implements AlgoritimoOrdenacao {
 
   public QuickSort() {
 
   }
-  
-  // Métodos
   
   @Override
 	

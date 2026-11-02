@@ -1,21 +1,14 @@
 
-package ed2.projeto.algoritmosordenacao;
+package algoritimosordenacao;
 
 import java.util.Random;
-
-/**
- * 
- * @author Hilario Tomaz Alves de Oliveira
- *
- */
 
 public class Utils {
 
   private Utils() {
 
   }
-  
-  // Métodos
+
   
   public static void imprimirVetor(int[] vetor) {
 	

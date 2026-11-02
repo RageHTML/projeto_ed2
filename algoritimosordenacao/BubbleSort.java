@@ -1,13 +1,7 @@
 
-package ed2.projeto.algoritmosordenacao;
+package algoritimosordenacao;
 
-/**
- * 
- * @author Hilario Tomaz Alves de Oliveira
- *
- */
-
-public class BubbleSort implements IAlgoritmoOrdenacao {
+public class BubbleSort implements AlgoritimoOrdenacao {
 
   @Override
 	
@@ -35,7 +29,7 @@ public class BubbleSort implements IAlgoritmoOrdenacao {
 		  
 		}
 		
-	  } // FOR ELEMENTOS VETOR
+	  }
 		
     } while( isTroca );
 	
