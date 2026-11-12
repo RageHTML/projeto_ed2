@@ -23,7 +23,7 @@ public class InsertionSort implements AlgoritimoOrdenacao {
 		          
        vetor[ indiceJ + 1 ] = aux;
 
-     } // FOR ELEMENTOS
+     } 
 			     
   }
 

@@ -42,7 +42,7 @@ public class Utils {
 	 
 	  vetor[i] = numero;
 	  
-    } // FOR VETOR
+    } 
 	    
     return vetor;
     

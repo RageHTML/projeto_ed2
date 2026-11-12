@@ -1,0 +1,2 @@
+javac -d out tabelahash/*.java algoritimosordenacao/*.java
+java -cp out algoritimosordenacao.Main

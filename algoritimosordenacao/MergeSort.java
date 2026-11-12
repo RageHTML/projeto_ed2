@@ -56,7 +56,7 @@ public class MergeSort implements AlgoritimoOrdenacao {
 	     
       posLivre++;
 	      
-    } // WHILE
+    }
 	    
     for(int i = inicioVetor1; i <= meio; i++) {
 	    
@@ -64,7 +64,7 @@ public class MergeSort implements AlgoritimoOrdenacao {
 	      
       posLivre++;
 	      
-    } // FOR VETOR 1
+    }
 	    
     for(int i = inicioVetor2; i <= fim; i++) {
 	    	
@@ -72,13 +72,13 @@ public class MergeSort implements AlgoritimoOrdenacao {
 	      
       posLivre++;
 	      
-    } // FOR VETOR 2
+    }
 	    
     for(int i = inicio; i <= fim; i++) {
 	    	
       vetor[i] = aux[i];
 	      
-    } // FOR VETOR COMPLETO
+    } 
 	    	
   }
 

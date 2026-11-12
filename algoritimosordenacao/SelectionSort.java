@@ -19,7 +19,7 @@ public class SelectionSort implements AlgoritimoOrdenacao {
 		  
 	    }
 		
-	  } // FOR MENOR ELEMENTO
+	  } 
 		
 	  if( indiceMenorElemento != i ) {
 		    	   
@@ -31,7 +31,7 @@ public class SelectionSort implements AlgoritimoOrdenacao {
 		
 	  }
 		
-    } // FOR ELEMENTOS
+    }
 	
   }
 

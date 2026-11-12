@@ -59,7 +59,7 @@ public class QuickSort implements AlgoritimoOrdenacao {
 	        
       }
 	      
-    } // WHILE
+    } 
 	    
     return j;
 	    
